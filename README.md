@@ -1,2 +1,2 @@
 # python-api-challenge
-This repository will demonstrate skills in utilising different APIs using Python, Matplotlib and Pandas Dataframe
+Utilize Python, Jupyter Notebook and API's to pull and analyze weather and location data
